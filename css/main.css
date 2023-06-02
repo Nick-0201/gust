@@ -78,7 +78,7 @@ body {
   }
 }
 .expirence {
-  background: url(/image/expirience.png) center/cover no-repeat;
+  background: url(../image/expirience.png) center/cover no-repeat;
 }
 .expirence__logo {
   text-align: center;
@@ -1011,5 +1011,3 @@ body {
     float: right;
   }
 }
-
-/*# sourceMappingURL=main.css.map */
